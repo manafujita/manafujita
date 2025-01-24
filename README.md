@@ -1,12 +1,3 @@
-### Full Stack Engineer | Laravel Expert | Chatbot
-
----
-
-#### About Me
-I'm a seasoned web engineer with expertise in Laravel and chatbot development. I have a passion for building efficient and scalable web applications and creating intelligent chat interfaces.
-
----
-
 #### Programming Languages
 ![HTML, CSS, JavaScript, TypeScript, PHP, Python](https://skillicons.dev/icons?i=html,css,javascript,typescript,php,python)
 
